@@ -81,8 +81,13 @@ textarea{
 
 h2 {
   font-size: 100%;
-  padding: 28px 10px 0px 25px;
   margin: 0px;
-  border-right: 1px solid #000000;
 }
 
+.sDigit {
+  padding: 28px 10px 0px 25px;
+}
+
+.dDigit {
+  padding: 28px 13px;
+}
