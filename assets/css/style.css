@@ -79,3 +79,9 @@ textarea{
   transition: all .3s ease-in-out;
 }
 
+h2 {
+  font-size: 100%;
+  padding: 28px 10px 0px 25px;
+  margin: 0px;
+}
+
